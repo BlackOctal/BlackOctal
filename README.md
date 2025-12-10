@@ -57,13 +57,6 @@ me.sayHi();
 
 <br>
 
-**🎯 Quick Facts:**
-- 🔭 Currently working on **Secret Projects** 🤫
-- 🌱 Learning **Cloud Architecture & AI/ML**
-- 👯 Open for **Collaborations on Innovative Projects**
-- 💬 Ask me about **Web Dev, APIs, Databases**
-- ⚡ Fun fact: I debug with **mass trial and error** 😄
-
 <br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
