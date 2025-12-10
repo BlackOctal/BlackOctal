@@ -11,7 +11,7 @@
 <!-- 3D ANIMATED INTRO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E+Welcome+to+my+Digital+Realm+%F0%9F%8C%90;%3E+Initializing+BlackOctal.exe...+%E2%9C%93;%3E+Ready+to+Innovate+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E+Welcome+to+my+Digital+Realm+%F0%9F%8C%90;%3E+Initializing+BlackOctal.exe..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -68,15 +68,6 @@ me.sayHi();
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 3D CONTRIBUTION GRAPH -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 3D Contribution Graph
-
-<div align="center">
-  <a href="https://skyline.github.com/BlackOctal/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View%203D%20Skyline-2024-00ff00?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>
-</div>
-
 <br>
 
 <div align="center">
@@ -130,14 +121,6 @@ me.sayHi();
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/BlackOctal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackOctal&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackOctal&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF"/>
-  </a>
-</div>
 
 <br>
 
@@ -158,32 +141,6 @@ me.sayHi();
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- TROPHIES -->
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlackOctal&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- DEV JOKE -->
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=matrix&hideBorder" alt="Jokes Card" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- DEV QUOTE -->
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Dev Quote"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- CONNECT -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
@@ -224,17 +181,6 @@ me.sayHi();
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BlackOctal/BlackOctal/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-<!-- VISITOR COUNT -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=BlackOctal&icon=6&color=3" alt="Visit Count"/>
-</div>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
