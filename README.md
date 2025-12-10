@@ -9,9 +9,9 @@
 </p>
 
 <!-- ANIMATED MATRIX RAIN EFFECT -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150">
-</div>
+</div> -->
 
 <!-- 3D ANIMATED INTRO -->
 <div align="center">
