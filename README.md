@@ -8,11 +8,6 @@
   <img alt="coding" width="300" height="300" src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif">
 </p>
 
-<!-- ANIMATED MATRIX RAIN EFFECT -->
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150">
-</div> -->
-
 <!-- 3D ANIMATED INTRO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -74,12 +69,6 @@ me.sayHi();
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackOctal&custom_title=BlackOctal%27s%20Contribution%20Graph&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&title_color=00FF00&area=true&hide_border=true" alt="Activity Graph" width="100%">
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- TECH ARSENAL -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
@@ -187,5 +176,3 @@ me.sayHi();
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
