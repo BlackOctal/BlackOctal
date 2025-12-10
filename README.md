@@ -75,11 +75,11 @@ me.sayHi();
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackOctal&custom_title=BlackOctal%27s%20Contribution%20Graph&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&title_color=00FF00&area=true&hide_border=true" alt="Activity Graph" width="100%">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- TECH ARSENAL -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
