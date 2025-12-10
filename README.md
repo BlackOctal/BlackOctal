@@ -43,7 +43,7 @@ class Developer {
     this.name = "BlackOctal";
     this.role = "Full Stack Developer";
     this.languageSpoken = ["en_US", "si_LK"];
-    this.currentlyLearning = "Everything 🚀";
+    this.currentlyLearning = "Everything ";
   }
 
   sayHi() {
