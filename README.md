@@ -11,7 +11,7 @@
 <!-- 3D ANIMATED INTRO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E+Welcome+to+my+Digital+Realm+%F0%9F%8C%90;%3E+Initializing+BlackOctal.exe..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E+Welcome+to+my+GitHub+Profile+%F0%9F%8C%90;%3E+Initializing+BlackOctal.exe..." alt="Typing SVG" />
   </a>
 </div>
 
