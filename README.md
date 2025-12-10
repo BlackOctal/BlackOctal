@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=BLACK%20OCTAL&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descSize=18"/>
 </div>
 
+<p align="center">
+  <img alt="coding" width="300" height="300" src="https://media.giphy.com/media/2Rc2BC6AwdOncuw6Sf/giphy.gif">
+  <img alt="coding" width="300" height="300" src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif">
+</p>
+
 <!-- ANIMATED MATRIX RAIN EFFECT -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150">
